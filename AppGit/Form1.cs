@@ -26,5 +26,15 @@ namespace AppGit
         {
             button1.BackColor = Color.Red;
         }
+
+        private void button1_Enter(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Transparent;
+        }
+
+        private void button1_Leave(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Empty;
+        }
     }
 }
