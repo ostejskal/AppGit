@@ -32,7 +32,7 @@ namespace AppGit
         {
             if ((i % 2) != 0)
             {
-                button1.BackColor = Color.Red;
+                button1.BackColor = Color.Blue;
                 i++;
             }
             else
