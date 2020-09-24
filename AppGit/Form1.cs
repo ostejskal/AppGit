@@ -17,7 +17,6 @@ namespace AppGit
     {
 
         // zmena martin
-        // zmena na vetvi pes
         public int i;
         public Form1()
         {
