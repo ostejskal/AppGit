@@ -15,6 +15,8 @@ namespace AppGit
 
     public partial class Form1 : Form
     {
+
+        // zmena martin
         public int i;
         public Form1()
         {
