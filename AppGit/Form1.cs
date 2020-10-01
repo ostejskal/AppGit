@@ -15,7 +15,7 @@ namespace AppGit
 
     public partial class Form1 : Form
     {
-
+        // zmena lojda
         // zmena martin
         // zmena na vetvi pes
         public int i;
